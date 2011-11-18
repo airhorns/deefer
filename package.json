@@ -1,0 +1,23 @@
+{
+  "author": "Harry Brundage <harry.brundage@jadedpixel.com>",
+  "name": "deefer",
+  "description": "Extensible Markdown parsing, ported from Ruby kramdown.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/hornairs/deefer",
+  "repository": {
+    "url": ""
+  },
+  "main": "lib/deefer.js",
+  "scripts": {
+    "test": "cake test"
+  },
+  "engines": {
+    "node": "~0.4.12"
+  },
+  "dependencies": {
+    "strscan": "1.0.1"
+  },
+  "devDependencies": {
+    "muffin": "~0.2"
+  }
+}
